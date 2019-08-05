@@ -21,4 +21,12 @@
 	<td>Search anywhere</td>
 	<td><code>Double Shift</code></td>
 </tr>
+<tr>
+	<td>Open terminal</td>
+	<td><code>Alt + F12</code></td>
+</tr>
+<tr>
+	<td>Recent files</td>
+	<td><code>Ctrl + E</code></td>
+</tr>
 </table>
