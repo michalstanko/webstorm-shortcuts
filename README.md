@@ -26,6 +26,10 @@
 	<td><code>Alt + F12</code></td>
 </tr>
 <tr>
+	<td>Open version control window</td>
+	<td><code>Alt + 9</code></td>
+</tr>
+<tr>
 	<td>Recent files</td>
 	<td><code>Ctrl + E</code></td>
 </tr>
